@@ -1,16 +1,10 @@
-# 🌐 Zion App Network — Interlinks
+# Synthetic Data Lab
 
-**synthetic-data-lab** is part of the Zion Tech Group app network (630+ apps).
+Synthetic data generation lab.
 
-- 🗃️ [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂️ Category: [Data & Analytics](https://github.com/Zion-support/zion-network/blob/main/network/data-analytics.md)
+## Network
+- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-tools](https://github.com/Zion-support/zion-tools)
+- Related: [zion-synthetic-data-studio](https://github.com/Zion-support/zion-synthetic-data-studio) · [zion-synthetic-data-checker](https://github.com/Zion-support/zion-synthetic-data-checker) · [zion-ai-data-anonymizer](https://github.com/Zion-support/zion-ai-data-anonymizer) · [ai-data-labeling](https://github.com/Zion-support/ai-data-labeling)
 
-## Related apps
-- [data-quality-sentinel](https://github.com/Zion-support/data-quality-sentinel) — data quality monitoring
-- [data-contract-validator](https://github.com/Zion-support/data-contract-validator) — data contract checks
-- [sql-query-explainer](https://github.com/Zion-support/sql-query-explainer) — SQL breakdowns
-- [rag-evaluator](https://github.com/Zion-support/rag-evaluator) — RAG quality scoring
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
-
----
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
